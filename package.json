@@ -1,7 +1,7 @@
 {
   "name": "analyseur-numero-securite-sociale",
   "version": "0.0.0",
-  "description": "Validez et analysez les numéros des sécurité sociales français pour en récupérer la signification",
+  "description": "Validez et analysez les numéros de sécurité sociale français pour en récupérer le contenu",
   "main": "index.js",
   "repository": "https://github.com/MathisBarre/analyseur-numero-securite-sociale",
   "author": "Mathis Barré",
